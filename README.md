@@ -1,4 +1,4 @@
-# Hi, I'm Malika 👋
+# Hi,👋
 
 Full-Stack Ruby on Rails Developer | Production-ready applications | Former E-commerce Professional
 
