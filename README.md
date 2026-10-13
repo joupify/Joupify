@@ -7,7 +7,7 @@ Former e-commerce professional, now focused on delivering production-grade Ruby 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Ruby on Rails (7+)
 - PostgreSQL
