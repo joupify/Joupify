@@ -98,7 +98,7 @@ n8n · Cohere AI · Bright Data · Slack API · Gmail API · Google Sheets API
 ## Education
 
 **Le Wagon Paris | Batch #1233 | 2023**  
-Intensive Web Development Bootcamp (560h)  
+Intensive Web Development Bootcamp  
 Ruby on Rails · MVC architecture · TDD · Full-stack projects
 
 ---
