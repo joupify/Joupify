@@ -22,9 +22,9 @@ Former e-commerce professional, now focused on delivering production-grade Ruby 
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🔒 Clairbnb – Booking Platform (Airbnb-like)
+### Clairbnb – Booking Platform (Airbnb-like)
 
 **🔗 Live demo:** https://clairbnb.onrender.com/
 
@@ -46,11 +46,11 @@ Rails 7 · Hotwire · PostgreSQL · Stripe · Docker · CI/CD (GitHub Actions) �
 - Admin dashboard
 - Production deployment (Docker + CI/CD pipeline)
 
-**Private code — available upon request for technical interviews or freelance missions**
+**Private code — available upon request for technical interviews**
 
 ---
 
-### 🔒 VibeVault – E-commerce Platform
+### VibeVault – E-commerce Platform
 
 Full-stack e-commerce application built for scalability and performance
 
@@ -68,7 +68,7 @@ Rails 7 · PostgreSQL · Hotwire · Stripe · Sidekiq · Redis
 
 ---
 
-### 🧠 SOC-CERT – Cybersecurity Automation System
+### SOC-CERT – Cybersecurity Automation System
 
 Automated threat intelligence pipeline processing cybersecurity data
 
@@ -85,7 +85,7 @@ n8n · Cohere AI · Bright Data · Slack API · Gmail API · Google Sheets API
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Logistics Process Optimization | Pixmania
 
@@ -95,7 +95,7 @@ n8n · Cohere AI · Bright Data · Slack API · Gmail API · Google Sheets API
 
 ---
 
-## 🎓 Education
+## Education
 
 **Le Wagon Paris | Batch #1233 | 2023**  
 Intensive Web Development Bootcamp (560h)  
@@ -112,17 +112,13 @@ Ruby on Rails · MVC architecture · TDD · Full-stack projects
 
 ---
 
-## 💼 Freelance Availability
+##  Open to opportunities
 
-Available for freelance missions on:
-- Ruby on Rails development
-- MVP development
-- API design & backend systems
-- Automation workflows (n8n / integrations)
+Actively looking for a full-time position as a Junior Ruby on Rails Developer.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - LinkedIn: https://linkedin.com/in/housnim  
 - GitHub: https://github.com/joupify  
@@ -130,6 +126,6 @@ Available for freelance missions on:
 
 ---
 
-## 📌 Note
+##  Note
 
-All projects marked “private code” are available for technical interviews or freelance evaluations upon request.
+All projects marked “private code” are available for technical interviews upon request.
