@@ -121,7 +121,8 @@ Actively looking for a full-time position as a Junior Ruby on Rails Developer.
 ##  Contact
 
 - LinkedIn: https://linkedin.com/in/housnim  
-- GitHub: https://github.com/joupify  
+- GitHub: https://github.com/joupify
+- DEV.to: https://dev.to/joupify
 - Email: mikayakouta@gmail.com  
 
 ---
